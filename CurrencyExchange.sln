@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyExchange", "CurrencyExchange\CurrencyExchange.csproj", "{3394AEDB-6656-46BB-8563-3F1A6428E516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyExchangeTests", "CurrencyExchangeTests\CurrencyExchangeTests.csproj", "{24272FEB-47D9-4A70-8279-D58C9312E2CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3394AEDB-6656-46BB-8563-3F1A6428E516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3394AEDB-6656-46BB-8563-3F1A6428E516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3394AEDB-6656-46BB-8563-3F1A6428E516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3394AEDB-6656-46BB-8563-3F1A6428E516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24272FEB-47D9-4A70-8279-D58C9312E2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24272FEB-47D9-4A70-8279-D58C9312E2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24272FEB-47D9-4A70-8279-D58C9312E2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24272FEB-47D9-4A70-8279-D58C9312E2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FC69AB0-BDC3-47FF-BD01-411311108BE7}
+	EndGlobalSection
+EndGlobal

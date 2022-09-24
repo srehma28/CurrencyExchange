@@ -1,0 +1,15 @@
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchangeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchangeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchangeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchangeTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchangeTests\bin\Debug\CurrencyExchangeTests.dll
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchangeTests\bin\Debug\CurrencyExchangeTests.pdb
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchangeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchangeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchangeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchangeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchangeTests\obj\Debug\CurrencyExchangeTests.csproj.AssemblyReference.cache
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchangeTests\obj\Debug\CurrencyExchangeTests.csproj.CoreCompileInputs.cache
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchangeTests\obj\Debug\CurrencyExchangeTests.csproj.CopyComplete
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchangeTests\obj\Debug\CurrencyExchangeTests.dll
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchangeTests\obj\Debug\CurrencyExchangeTests.pdb

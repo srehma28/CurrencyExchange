@@ -1,0 +1,15 @@
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchange\bin\Debug\net6.0\CurrencyExchange.exe
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchange\bin\Debug\net6.0\CurrencyExchange.deps.json
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchange\bin\Debug\net6.0\CurrencyExchange.runtimeconfig.json
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchange\bin\Debug\net6.0\CurrencyExchange.dll
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchange\bin\Debug\net6.0\CurrencyExchange.pdb
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0\CurrencyExchange.csproj.AssemblyReference.cache
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0\CurrencyExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0\CurrencyExchange.AssemblyInfoInputs.cache
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0\CurrencyExchange.AssemblyInfo.cs
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0\CurrencyExchange.csproj.CoreCompileInputs.cache
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0\CurrencyExchange.dll
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0\refint\CurrencyExchange.dll
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0\CurrencyExchange.pdb
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0\CurrencyExchange.genruntimeconfig.cache
+C:\Users\Saqib.Rehman\Pharmacy2U\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0\ref\CurrencyExchange.dll

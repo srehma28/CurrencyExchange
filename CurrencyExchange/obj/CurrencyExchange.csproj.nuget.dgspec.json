@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Saqib.Rehman\\Pharmacy2U\\CurrencyExchange\\CurrencyExchange\\CurrencyExchange.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Saqib.Rehman\\Pharmacy2U\\CurrencyExchange\\CurrencyExchange\\CurrencyExchange.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Saqib.Rehman\\Pharmacy2U\\CurrencyExchange\\CurrencyExchange\\CurrencyExchange.csproj",
+        "projectName": "CurrencyExchange",
+        "projectPath": "C:\\Users\\Saqib.Rehman\\Pharmacy2U\\CurrencyExchange\\CurrencyExchange\\CurrencyExchange.csproj",
+        "packagesPath": "C:\\Users\\Saqib.Rehman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Saqib.Rehman\\Pharmacy2U\\CurrencyExchange\\CurrencyExchange\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Saqib.Rehman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/tribalgroup/_packaging/tribal.edge.nuget/nuget/v3/index.json": {},
+          "https://tribalgroup.pkgs.visualstudio.com/_packaging/tribal.edge.nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
